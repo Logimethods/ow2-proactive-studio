@@ -1,4 +1,4 @@
-print(variables)
+print("variables" + variables)
 
 
 # In the Java Home location field, use the value: "/usr" to force using the JRE provided in the docker image below (Recommended).
